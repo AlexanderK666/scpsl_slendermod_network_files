@@ -1,0 +1,32 @@
+{
+  "appnews": {
+    "appid": 700330,
+    "newsitems": [
+	  {
+        "gid": "mainInformation",
+		"title": "Collect my pages!",
+		"url": "https://github.com/AlexanderK666",
+		"is_external_url": true,
+		"author": "AlexanderK666",
+		"contents": "[h2]EN:[/h2]\n\nHello everyone!\n\nYou are reading this message because you have gained access to the \"Collect my pages!\" modification for SCP: Secret Laboratory.\nI would like to make it clear that the \"Collect my pages!\" modification is an independent project and is not affiliated with [url=https://scpslgame.com]Northwood Studios[/url] or [url=https://en.wikipedia.org/wiki/Slender:_The_Eight_Pages]Parsec Productions[/url].\nThis modification was developed by me, driven by personal enthusiasm.\nDuring the creation of this project, I was also assisted by others, whom you will be introduced to in the next announcement <3\n\nThank you for your understanding and support.\n\n[h2]RU:[/h2]\n\nЗдравствуйте, уважаемые игроки!\nВы читаете это сообщение, поскольку получили доступ к модификации \"Collect my pages!\" для игры SCP: Secret Laboratory.\nЯ хотел бы чётко обозначить, что модификация \"Collect my pages!\" является независимой инициативой и она не связана с [url=https://scpslgame.com]Northwood Studios[/url] или [url=https://en.wikipedia.org/wiki/Slender:_The_Eight_Pages]Parsec Productions[/url].\nМодификация была разработана мной на основе личного энтузиазма.\nВ процессе создания проекта мне также оказывали помощь другие люди, с которыми вы сможете познакомиться в следующей новости <3\n\nБлагодарю вас за понимание и поддержку.\n\n[i]~ AlexanderK666[/i]",
+		"feedlabel": "Slenderman Mod Announcements",
+		"date": 1723680000,
+		"feedname": "slenderman_mod_announcements",
+		"feedtype": 2
+	  },
+	  {
+        "gid": "credits",
+		"title": "Credits",
+		"url": "https://github.com/AlexanderK666",
+		"is_external_url": true,
+		"author": "AlexanderK666",
+		"contents": "[h2]EN:[/h2]\n\nDuring the development of the modification, the following people provided significant assistance:\n\n[*] Meganeko — rendering and support in promoting the project.\n[*] PSIX — expert on Slender: The Eight Pages.\n[*] Griefer — involvement in development and testing.\n[*] dado — consultation on SCP:SL files and testing.\n[*] LostFire — providing initial tools for modification creation and support in promotion.\n[*] Denis_lk — development of plugins for the Dedicated Server.\n[*] Dimanuk — trailer creation.\n[*] Dyrka — testing.\n\n[h2]RU:[/h2]\n\nВ процессе разработки модификации мне оказали значительную помощь следующие люди:\n\n[*] Meganeko — рендеринг и поддержка в продвижении проекта.\n[*] PSIX — эксперт по Slender: The Eight Pages.\n[*] Griefer — участие в разработке и тестировании.\n[*] dado — консультации по файлам SCP:SL и тестирование.\n[*] LostFire — предоставление первичных инструментов для создания модификации и поддержка в продвижении.\n[*] Denis_lk — разработка плагинов для Dedicated Server.\n[*] Dimanuk — создание трейлера.\n[*] Dyrka — тестирование.\n\n[i]~ AlexanderK666[/i]",
+		"feedlabel": "Slenderman Mod Announcements",
+		"date": 1723680000,
+		"feedname": "slenderman_mod_announcements",
+		"feedtype": 2
+	  }
+    ],
+	"count": 2
+  }
+}
